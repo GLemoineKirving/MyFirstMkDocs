@@ -1,4 +1,5 @@
 site_name: Ma documentation
 nav:
   - Home: index.md
-  - About: about.md
+  - Page2: page2.md
+  - Page3: page3.md
